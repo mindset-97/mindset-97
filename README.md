@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mindset-97
+- 👋 Hi, I’m wamalwa@97 
 - 👀 I’m interested in ...software engineering
 - 🌱 I’m currently learning ...js, python , django, sql
 - 💞️ I’m looking to collaborate on ...
